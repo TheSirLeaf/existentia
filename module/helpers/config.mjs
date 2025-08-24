@@ -1,23 +1,23 @@
-export const BOILERPLATE = {};
+export const EXISTENTIA = {};
 
 /**
  * The set of Ability Scores used within the system.
  * @type {Object}
  */
-BOILERPLATE.abilities = {
-  str: 'BOILERPLATE.Ability.Str.long',
-  dex: 'BOILERPLATE.Ability.Dex.long',
-  con: 'BOILERPLATE.Ability.Con.long',
-  int: 'BOILERPLATE.Ability.Int.long',
-  wis: 'BOILERPLATE.Ability.Wis.long',
-  cha: 'BOILERPLATE.Ability.Cha.long',
+EXISTENTIA.abilities = {
+  str: 'EXISTENTIA.Ability.Str.long',
+  dex: 'EXISTENTIA.Ability.Dex.long',
+  con: 'EXISTENTIA.Ability.Con.long',
+  int: 'EXISTENTIA.Ability.Int.long',
+  wis: 'EXISTENTIA.Ability.Wis.long',
+  cha: 'EXISTENTIA.Ability.Cha.long',
 };
 
-BOILERPLATE.abilityAbbreviations = {
-  str: 'BOILERPLATE.Ability.Str.abbr',
-  dex: 'BOILERPLATE.Ability.Dex.abbr',
-  con: 'BOILERPLATE.Ability.Con.abbr',
-  int: 'BOILERPLATE.Ability.Int.abbr',
-  wis: 'BOILERPLATE.Ability.Wis.abbr',
-  cha: 'BOILERPLATE.Ability.Cha.abbr',
+EXISTENTIA.abilityAbbreviations = {
+  str: 'EXISTENTIA.Ability.Str.abbr',
+  dex: 'EXISTENTIA.Ability.Dex.abbr',
+  con: 'EXISTENTIA.Ability.Con.abbr',
+  int: 'EXISTENTIA.Ability.Int.abbr',
+  wis: 'EXISTENTIA.Ability.Wis.abbr',
+  cha: 'EXISTENTIA.Ability.Cha.abbr',
 };
